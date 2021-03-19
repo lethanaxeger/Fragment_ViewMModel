@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Save Endangered Animals</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tab_text_1">Hello blank fragment</string>
+    <string name="tab_text_2">Heee apa lho</string>
+    <string name="next">Lanjot</string>
+    <string name="skip">Kelamaan</string>
+    <string name="start">GOT IT</string>
+
+    <!-- Extension 1-->
+    <string name="title_activity_welcome">Home Screen</string>
+
+    <string name="slide_1_title">This Parrot</string>
+    <string name="slide_1_desc">Need your help!</string>
+
+    <string name="slide_2_title">This <strike><small>Komodo</small></strike> Biawak</string>
+    <string name="slide_2_desc">Need help too!</string>
+
+    <string name="slide_3_title">"Let's Save Them!"</string>
+    <string name="slide_3_desc">For our future!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
